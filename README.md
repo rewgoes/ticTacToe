@@ -19,4 +19,8 @@ Other branches contain the model, plus a User Interface following:
 
 **I hope this project/post is useful to you!   Thank you for reading.**
 
+#### More
+
+Check out this article: [Android Architecture with MVP or MVVM - Tutorial](http://www.vogella.com/tutorials/AndroidArchitecture/article.html)
+
 Eric
